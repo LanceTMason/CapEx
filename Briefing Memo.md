@@ -2,9 +2,11 @@
 
 **SUBJECT:** Capitalization of Startup Expenses & Legal Safeguards for Customer Lists (*BDO Seidman* Analysis)
 
+**BACKGROUND:** Venture capitalists tend to say that they won't sign NDAs, as it's bad practice in early negotiations and it signals that the founder is green or has not gotten investment before. While this may be true, it does not do any or add any value to the discussion, which is that information is an asset to be protected. Aaron Levy, CEO of Box, has said that information should be an asset on the balance sheet. We still aren't treating it like that. The purpose of this document is to aid in clarifying some of the intuitions that early-stage founders have around their information and protecting them. 
+
 ## **1\. EXECUTIVE SUMMARY**
 
-When investigating, acquiring, or forming a new business enterprise, the expenditures incurred prior to active operations receive distinct treatment under both federal tax law and corporate intellectual property law. Venture capitalists tend to say that they won't sign NDAs, as it's bad practice in early negotiations and it signals that the founder is green or has not gotten investment before. While this may be true, it does not do any or add any value to the discussion, which is that information is an asset to be protected. Aaron Levy, CEO of Box, has said that information should be an asset on the balance sheet. We still aren't treating it like that. The purpose of this document is to aid in clarifying some of the intuitions that early-stage founders have around their information and protecting them. 
+When investigating, acquiring, or forming a new business enterprise, the expenditures incurred prior to active operations receive distinct treatment under both federal tax law and corporate intellectual property law. 
 
 1. **Tax Treatment:** Pre-operational search, investigative, and organizational expenses cannot be immediately deducted as standard operating expenses. Under Internal Revenue Code (IRC) § 195, these expenses must be capitalized as capital expenditures (CapEx) and amortized over a 180-month period.  
 2. **Asset Protection:** Customer lists compiled during or after the startup phase represent core **intangible assets**. Under modern trade secret law and landmark precedent—specifically ***BDO Seidman v. Hirshberg*** (N.Y. 1999)—customer lists qualify as protectable confidential information provided they are non-public and derived through proprietary efforts.
