@@ -1,6 +1,6 @@
 # Read Me
 
-**Summary:** As capital expenditures, for example, investments in hardware, GPUs, and physical infrastructure, become more important. It becomes more relevant for accountants and those outside of the finance profession to understand the significance of capital expenditures and how those capital expenditures relate to conversations with stakeholders. This readme and repository in general is aimed at facilitating entrepreneurs and the general public in participating in those conversations. 
+**Summary:** As capital expenditures, for example, investments in hardware, GPUs, and physical infrastructure, become more important, it becomes more relevant for accountants and those outside of the finance profession to understand the significance of capital expenditures and how those capital expenditures relate to conversations with stakeholders. This readme and repository in general is aimed at facilitating entrepreneurs and the general public in participating in those conversations. 
 
 ## Executive Overview
 
